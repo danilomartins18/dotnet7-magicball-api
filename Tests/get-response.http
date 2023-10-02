@@ -1,0 +1,6 @@
+# Testing endpoints from Magic Ball API
+
+@baseUrl=https://localhost:7067
+
+# @name getResponse
+GET {{baseUrl}}/magic-ball/response

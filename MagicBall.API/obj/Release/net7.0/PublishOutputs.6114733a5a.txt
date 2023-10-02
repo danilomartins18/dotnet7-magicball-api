@@ -1,0 +1,12 @@
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\MagicBall.API.exe
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\MagicBall.API.dll
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\MagicBall.API.deps.json
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\MagicBall.API.runtimeconfig.json
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\MagicBall.API.pdb
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Study\.NET Core\NET7\MagicBall\MagicBall.API\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
